@@ -1,6 +1,6 @@
 # gpu-wslg
 
-This is a minimal template for using WSLg (Windows Subsystem for Linux GUI) with ** NVIDIA GPU ** on Docker Container (Ubuntu 20.04).  
+This is a minimal template for using WSLg (Windows Subsystem for Linux GUI) with **NVIDIA GPU** on Docker Container (Ubuntu 20.04).  
 
 ## Require
 
