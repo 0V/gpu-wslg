@@ -15,7 +15,7 @@ This is a minimal template for using WSLg (Windows Subsystem for Linux GUI) with
 
 ```
 docker compose up -d --build
-docker compose exec docker-for-wslg /bin/bash
+docker compose exec gpu-wslg /bin/bash
 ```
 
 ## Try!
