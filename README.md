@@ -9,7 +9,7 @@ This is a minimal template for using WSLg (Windows Subsystem for Linux GUI) with
 - Docker Desktop 
   - docker
   - docker-compose V2
-- NVIDIA GPU 
+- GPU 
 
 ## Installation
 
